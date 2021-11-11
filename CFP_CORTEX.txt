@@ -1,0 +1,76 @@
+[CFP] The First International Workshop COmputing using EmeRging EXotic AI-Inspired Systems (CORtEX'22) held in conjunction with IPDPS'22
+
+--------------------------------------------------------------------------------------
+Please accept our apologies if you have received multiple copies.
+--------------------------------------------------------------------------------------
+
+      	Call for papers for CORtEX'22:
+    	The First International Workshop
+  "COmputing using EmeRgingEXotic AI-Inspired Systems"
+
+    	held in conjunction with IPDPS 2022,
+ 	Friday the 3rd June, 2022, Lyon, France
+    
+            	https://cortex.ws/
+
+-------------------------------------------------------------------------------------
+
+IMPORTANT DATES:
+
+   Paper submission: January 26th, 2022
+   Paper notification: March 10th, 2022   
+
+-------------------------------------------------------------------------------------
+
+DESCRIPTION:
+
+International Workshop "COmputing using EmeRging EXotic AI-Inspired Systems" (CORTEX'22)
+is a recurring and open international forum dedicated to topics of brain-inspired computing: emergent (beyond main-stream deep learning) AI paradigms and associate computational challenges, neuromorphic devices,  computational neuroscience, etc. We invite authors to present their work done in relation to and especially at the intersection of the topics of interest, including (but are not limited to):
+
+- Computational neuroscience theory and case-studies on artificial intelligence
+- Software systems for neuromorphic computing, including benchmarks and case-studies
+- Hardware systems for neuromorphic computing, including hardware accelerators, reconfigurable systems (e.g., FPGAs), or the use of emerging non-CMOS technologies
+- Frameworks for neuromorphic computing through domain-specific languages or libraries (e.g., Nengo),
+- Emerging brain-inspired artificial intelligence abstractions, algorithms, implementations, or case-studies (e.g., Hierarchical Temporal Memory, BCPNN, etc.),
+- Studies that compare and position the use of neuromorphic hardware compared to general-purpose systems (CPUs or GPUs) for various use-cases
+- Other emergent AI paradigms such as subsymbolic systems, discrete program synthesis, etc., and associated computational challenges.
+
+Submissions describing early exploratory work are welcome, as well as papers presenting not yet solved challenges. Please visit the workshop website at https://cortex.ws for the extended overview.
+
+-------------------------------------------------------------------------------------
+
+SUBMISSION GUIDELINES:
+
+Authors are invited to submit work as short papers (up-to 4 pages) or regular papers (up-to 8 pages). Submitted manuscripts should be formatted in the single-spaced double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style), including figures, tables, and references. The submitted work shall be in the English language, not be under consideration elsewhere, and will be peer-reviewed by the technical program committee (TPC).
+
+Submission: https://ssl.linklings.net/conferences/ipdps/ -> "Make a new submission" -> CORtEX Workshop
+
+Quick Link:
+https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=CoRTEXWorkshopFullSubmission&site=ipdps2022
+
+
+-------------------------------------------------------------------------------------
+
+ORGANIZERS:
+
+  Artur Podobas (KTH Royal Institute of Technology, Sweden)
+  Aleksandr Drozd (RIKEN Center for Computational Science, Japan)
+  Catherine Schuman (Oak Ridge National Laboratory, USA)
+  Barry Devereux (Queen's University Belfast, UK)
+
+-------------------------------------------------------------------------------------
+
+PROGRAM COMMITTEE:
+
+  Prasanna A Date (Oak Ridge National Laboratory, USA)
+  Shruti Kulkarni (Oak Ridge National Laboratory, USA)
+  Ekaterina Vylomova (University of Melbourne, Australia)
+  Pawel Herman (KTH Royal Institute of Technology, Sweden)
+  Stefano Markidis (KTH Royal Institute of Technology, Sweden)
+  Jun Igarashi (RIKEN Center for Computation Science, Japan)
+  Oliver Rhodes (Univ. of Manchester, United Kingdom)
+  Mohammed Wahib (AIST, Japan)
+  Raphael Shu (Amazon.com LLC, USA)
+  Machel Reid (University of Tokyo, Japan)
+  Martin Biehl (Araya Inc., Japan)
+  Kaushalya Madhawa (Lily MedTech Inc., Japan)
