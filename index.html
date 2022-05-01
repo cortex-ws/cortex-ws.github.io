@@ -64,24 +64,99 @@
 				
 			    <p>15:10-15:50: Jun Igarashi, RIKEN Center for Computational Science. 
 			    <strong>Large-scale simulations of mammalian brains using peta- to exa-scale computing.</strong>
+				
+    <details>
+    	<summary style="cursor:pointer;">
+    	<i>Bio</i><i class="fa fa-angle-down"></i>
+        </summary>
+		Jun Igarashi is a senior researcher of the High Performance Artificial Intelligence Systems Research Team at RIKEN Center for Computational Science. He serves as a vice representative in a brain simulation project using the Supercomputer Fugaku and a representative in a research project for brain simulation utilizing large-scale measurement. He investigates oscillatory neural activities in terms of brain function and disease and efficient parallel computing methods for large-scale simulations of spiking neural networks.
+
+    </details>
+
+    <details>
+       	<summary style="cursor:pointer;">
+    	<i>Abstract</i><i class="fa fa-angle-down"></i>
+        </summary>
+A whole-brain simulation allows us to investigate all interactions among neurons in the brain to understand the mechanisms of information processing and brain diseases. The computational performance of exascale supercomputers in the 2020s is estimated to realize whole-brain simulation at a human scale. However, it has not been realized to sufficiently reproduce and predict neural behaviors and functionality of the whole brain due to the lack of computational resources, physiological and anatomical data, brain models, and neural network simulators.
+We have studied large-scale brain simulations with various supercomputers toward whole brain simulations.
+In this talk, we will introduce studies on developing efficient spiking neural simulators, modeling brain disease, and large-scale simulations of the cortico-cerebello-thalamic circuit using the supercomputer Fugaku.
+    </details>
+
 </p>
 
 			    <p>15:50-16:30: Thomas Nowotny, University of Sussex. 
 			    <strong>The GeNN ecosystem for GPU accelerated spiking neural network simulations.</strong>
+    <details>
+       	<summary style="cursor:pointer;">
+    	<i>Bio</i><i class="fa fa-angle-down"></i>
+        </summary>
+Thomas Nowotny is a Professor of Informatics and the head of the AI research group at the University of Sussex, Brighton, UK. He was trained in theoretical Physics at Georg-August Universität Göttingen and Universität Leipzig before refocussing on Computational Neuroscience and bio-inspired AI during a postdoc at the University of California, San Diego.
+His main interests remain spiking neural networks in Computational Neuroscience and machine learning, the efficient simulation of SNNs, the use of computational methods in electrophysiology, and the Neuroscience of o lfaction.
+
+    </details>
+    <details>
+       	<summary style="cursor:pointer;">
+    	<i>Abstract</i><i class="fa fa-angle-down"></i>
+        </summary>
+The GPU enhanced neuronal networks (GeNN, https://github.com/genn-team/genn) framework is a collection of software aimed at simplifying the simulation of spiking neural networks on GPU accelerators. At its core, GeNN is a meta-compiler that translates model descriptions for spiking neural networks (SNNs) into efficient code for a computational back-end. Currently, GeNN supports CUDA, OpenCL and single-threaded CPU backends. GeNN was designed for maximal user flexibility and so can be employed in computational Neuroscience and machine learning contexts alike. In this talk, I will give an overview of the GeNN ecosystem, discuss some innovations that make important contributions to GeNN’s performance, and present benchmark results from Computational Neuroscience and machine learning applications.
+
+    </details>
 			    </p>
 
 			    <p>16:30-17:10: Anders Lansner, Stockholm University. 
-			    <strong>Brain-like machine learning using BCPNN.</strong></p>
+			    <strong>Brain-like machine learning using BCPNN.</strong>
+			    <details>
+       	<summary style="cursor:pointer;">
+    	<i>Bio</i><i class="fa fa-angle-down"></i>
+        </summary>
+PhD in Computer Science, KTH 1986, presently Emeritus Professor active at School of EECS at KTH, Department of Computational Science and Technology. Worked more than 40 years in computational neuroscience, neural computation, cognitive neuroscience and psychology, neuromorphic engineering, and supercomputer brain modeling. Main developer of the Bayesian Confidence Neural Network model (BCPNN) and many of its application in brain modelling and brain-like machine learning. Since 2008 member of the Royal Swedish Academy of Engineering Sciences (IVA) since 2008.
+    </details>
+    <details>
+       	<summary style="cursor:pointer;">
+    	<i>Abstract</i><i class="fa fa-angle-down"></i>
+        </summary>
+        The BCPNN (Bayesian Confidence Propagation Neural Network) model was developed from the early associative memory brain models and by further abstracting from what is known about the human brain. It basically features a recurrently connected modular network layer with sparse activity and local computation in signal processing as well as in its Bayesian Hebbian synaptic plasticity. Recent addition of an unsupervised mechanism for structural plasticity has enabled generation of efficient hidden representations with sparse and decorrelated structure. Extensive testing on several standard machine learning (ML) benchmarks, has demonstrated that its classification performance is on par with a standard multi-layer perceptron using error backpropagation learning and that it outperforms other biologically inspired ML methods. The latest component added is recurrence on top of the hidden layer, which augments this network with attractor dynamics, ability to extract prototype patterns and to classify with high performance distorted test patterns. When tested on MNIST it does not quite reach top performance on clean test patterns but outperforms other widely used multi-layer ML approaches on distorted ones. This kind of brain-like approach to machine learning and artificial intelligence can be further enhanced by incorporation of additional computationally relevant features of the biological brain.
+
+    </details>
+	</p>
 			    
 			    <p>17:10-17:20: Coffee Break</p>
 			    
 			    <p>17:20-18:00: Olivier Rhodes, University of Manchester. 
 			    <strong>Neuromorphic computing: from modelling the brain to bio-inspired AI. 
-			    </strong></p>
+			    </strong>
+			    <details>
+       	<summary style="cursor:pointer;">
+    	<i>Bio</i><i class="fa fa-angle-down"></i>
+        </summary>
+    Oliver is a Lecturer in Computer Science from the University of Manchester, UK. He joined the Department of Computer Science’s Advanced Processor Technologies research group in 2017, working under the EC Flagship Human Brain Project. Here he developed modelling techniques and applications on the SpiNNaker many-core digital neuromorphic system, before transitioning to a lecturing position in 2019.  
+His research focuses on real-time modelling of neural systems, with applications across computational neuroscience and bio-inspired AI.
+</details>
+    <details>
+       	<summary style="cursor:pointer;">
+    	<i>Abstract</i><i class="fa fa-angle-down"></i>
+        </summary>
+ This talk will introduce the field of neuromorphic computing: researching how to build machines to explore brain function; and using our enhanced understanding of the brain to build better computer hardware and algorithms. Specifically it will discuss spiking neural networks, including how they can be used to model neural circuits, and how these models can be harnessed to develop low-power bio-inspired AI systems.
+    </details>
+</p>
 			    
 			    <p>18:00-18:40: Lawrence Spracklen, Numenta. 
 			    <strong>Controlling the spiraling costs of Deep Learning with the Neocortex.
-				</strong></p>
+				</strong>
+			    <details>
+       	<summary style="cursor:pointer;">
+    	<i>Bio</i><i class="fa fa-angle-down"></i>
+        </summary>
+Dr. Lawrence Spracklen leads the Machine Learning Architecture team at Numenta, which is developing hardware architectures to support brain-inspired AI solutions. Prior to joining Numenta, Lawrence led research and development at several AI startups; RSquared AI, SupportLogic, Alpine Data and Ayasdi. Before this, Lawrence spent over a decade working at Sun Microsystems, Nvidia and VMware, where he focused on hardware architecture, software performance and scalability. Lawrence holds a Ph.D. in Electronics Engineering from the University of Aberdeen, a B.Sc. in Computational Physics from the University of York and has been issued over 70 US patents.
+    </details>
+    <details>
+       	<summary style="cursor:pointer;">
+    	<i>Abstract</i><i class="fa fa-angle-down"></i>
+        </summary>
+        In recent years, larger and more complex deep neural networks (DNNs) have led to significant advances in artificial intelligence (AI). However, the exponential growth of these models threatens forward progress. In this talk we discuss how key insights from the efficient operation of the human neocortex can deliver significant efficiency benefits in deep learning. We highlight recent research demonstrating efficiency improvements of over two orders of magnitude and discuss how AI software and hardware can evolve synergically to control the spiraling computational and energy costs of DNNs.
+
+    </details>
+</p>
 
 			    <p>18:40-19:20: Free Discussion</p>
 
